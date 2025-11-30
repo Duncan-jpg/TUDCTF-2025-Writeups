@@ -8,7 +8,7 @@ Solver: Duncan (aka me)
 Difficulty: Extra hard
 
 ## My Solution
-This was not an ordinary challenge this was the infamous Sanity Check. I was greeted with this description:
+This was not an ordinary challenge this was the famous Sanity Check. I was greeted with this description:
 
 
 ![description of image](./Description.png)
