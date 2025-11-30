@@ -13,4 +13,6 @@ This was not an ordinary challenge this was the infamous Sanity Check. I was gre
 
 ![description of image](./Description.png)
 
-When I read this I came up with the genius idea to join the TU Delft CTF discord server. 
+When I read this I came up with the genius idea to join the TU Delft CTF discord server. There I went to the announcements channel and found this message of the one and only Per.
+
+![Per message image](./message.png)
