@@ -17,7 +17,7 @@ When I read this I came up with the genius idea to join the TU Delft CTF discord
 
 ![Per message image](./message.png)
 
-After analyzing this image for around 4-5 minutes I found the hidden flag inside the message.
+After analyzing this message for around 4-5 minutes I found the hidden flag inside the message.
 
 ## The Flag
 TUDCTF{g00d_luck_4nd_h4v3_fun}
