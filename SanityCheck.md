@@ -1,4 +1,3 @@
-**Sanity Check Writeup**
 # Sanity Check
 misc/Sanity Check
 Author: The team
