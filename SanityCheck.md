@@ -1,5 +1,5 @@
 **Sanity Check Writeup**
-# challenge name
+# Sanity Check
 misc/Sanity Check
 Author: The team
 Solver: Duncan (aka me)
