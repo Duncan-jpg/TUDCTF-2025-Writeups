@@ -12,3 +12,4 @@ This was not an ordinary challenge this was the infamous Sanity Check. I was gre
 
 
 ![description of image](./Description.png)
+When I read this I came up with the genius idea to join the TU Delft CTF discord server. 
