@@ -31,7 +31,7 @@ So I searched online for a command and found the command pdfimages. And after lo
 
 I opened the file and saw this.
 
-![output](./images/output.png)
+![output](./output.png)
 
 ## Flag
 TUDCTF{jU5t_push_4_l1ttl3_b1t_h4rder}
