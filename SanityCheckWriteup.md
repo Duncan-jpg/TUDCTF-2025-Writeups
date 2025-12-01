@@ -11,11 +11,11 @@ Difficulty: Extra hard
 This was not an ordinary challenge this was the famous Sanity Check. I was greeted with this description:
 
 
-![description of image](./Description.png)
+![description of image](./images/Description.png)
 
 When I read this I came up with the genius idea to join the TU Delft CTF discord server. There I went to the announcements channel and found this message of the one and only Per.
 
-![Per message image](./message.png)
+![Per message image](./images/message.png)
 
 After analyzing this message for around 4-5 minutes I found the hidden flag inside the message.
 
